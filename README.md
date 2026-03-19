@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-basat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%3F?logo=In&logoColor=white&color=blue)](https://www.linkedin.com/in/deniz-basat)
 [![GitHub](https://img.shields.io/badge/GitHub-%3F?logo=GitHub&logoColor=white&color=black)](https://github.com/Heysh1n)
 
 ## 💾 Applications & Tools
