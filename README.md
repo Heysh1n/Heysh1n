@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-basat)
-[![GitHub](https://img.shields.io/badge/GitHub-%00000000.svg?logo=GitHub&logoColor=green)](https://github.com/Heysh1n)
+[![GitHub](https://img.shields.io/badge/GitHub-%21000000.svg?logo=GitHub&logoColor=green)](https://github.com/Heysh1n)
 
 ## 💾 Applications & Tools
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
