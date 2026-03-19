@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/deniz-basat)
-[![GitHub](htttps://img.shields.io/badge/GitHub-%0303030DA.svg?logo=GitHub&logoColor=green)](https://github.com/Heysh1n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-basat)
+[![GitHub](https://img.shields.io/badge/GitHub-%237289DA.svg?logo=GitHub&logoColor=green)](https://github.com/Heysh1n)
 
 ## 💾 Applications & Tools
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
